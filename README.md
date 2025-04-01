@@ -1,5 +1,5 @@
 # Como usar o Git e Github na prática
- 
+ ** teste
 ## Início do vídeo
 
 Oie gente sejam bem vindos a mais um vídeo aqui do canal, eu sou a Rafaella Ballerini e hoje eu vou mostrar pra vocês como utilizamos o GIT na prática
@@ -9,7 +9,7 @@ No [vídeo anterior](https://www.youtube.com/watch?v=DqTITcMq68k) eu expliquei o
 ## Instalando o GIT
 
 * [Link com os downloads](https://git-scm.com/downloads)
-
+  
 ## Criar um projeto novo
 
 * Criar uma nova pasta no PC pra isso chamada `Git Tutorial`
